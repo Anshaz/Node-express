@@ -12,5 +12,18 @@
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "morgan": "~1.9.0"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshaz/Node-express.git"
+  },
+  "author": "Anshaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshaz/Node-express/issues"
+  },
+  "homepage": "https://github.com/Anshaz/Node-express#readme",
+  "description": ""
 }
