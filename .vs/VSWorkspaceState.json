@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin",
+    "\\models",
+    "\\public",
     "\\routes"
   ],
-  "SelectedNode": "\\bin\\www",
+  "SelectedNode": "\\routes\\leaderRouter.js",
   "PreviewInSolutionExplorer": false
 }
